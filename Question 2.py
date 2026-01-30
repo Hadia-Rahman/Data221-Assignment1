@@ -16,4 +16,3 @@ def nested_dictionary_for_grocery_item_names(list_of_grocery_item_names):
         "parity": length_of_grocery_item_name_parity
     }
     return grocery_item_names_dictionary
-print(nested_dictionary_for_grocery_item_names(["Salad", "Apple", "Banana"]))
